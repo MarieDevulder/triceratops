@@ -1,0 +1,8 @@
+.github
+.ruff_cache
+.venv
+.gitignore
+.pre-commit-config.yaml
+makefile
+README.md
+Dockerfile.basic
